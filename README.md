@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on a dapp and a appointment booking system CRUD web app<br>I am a part of the Devvhouse & WemakeDevs community<br>exploring Blockchain dev , deep learning and kubernetes <br>Familiar with MERN stack
-i don't have any experience with Opensource but i'm looking forward to change that this year
+<br>I am a part of the Devvhouse & WemakeDevs community<br>exploring cloud native and kubernetes <br>Familiar with MERN stack
 
 
 ## 🌐 Socials:
