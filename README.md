@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a part of the Devvhouse & WemakeDevs community<br>exploring cloud native and kubernetes <br>Familiar with MERN stack
+<br>exploring cloud native and kubernetes <br>Familiar with MERN stack, Spin (Web assembly),eBPF and Golang. Getting used to Microservice based architecture.
 
 
 ## 🌐 Socials:
