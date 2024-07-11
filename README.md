@@ -1,9 +1,5 @@
 # Hello, I'm Aditya 👋
 
-Welcome to my GitHub profile! I'm currently a 2nd-year Computer Science Engineering student pursuing my B.Tech degree from KIT's College of Engineering, Kolhapur.
-
-## 😄 About Me 
-
 As a passionate and driven developer, my ultimate goal is to become a low-level systems programmer with a strong expertise in networking and cloud-native architecture. I aim to design hyper-efficient, environmentally friendly systems that will revolutionize computing.
 
 ## 🗺️My Journey
