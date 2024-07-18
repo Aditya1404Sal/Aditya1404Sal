@@ -2,17 +2,11 @@
 
 As a passionate and driven developer, my ultimate goal is to become a low-level systems programmer with a strong expertise in networking and cloud-native architecture. I aim to design hyper-efficient, environmentally friendly systems that will revolutionize computing.
 
-## 🗺️My Journey
-
-Over the past two years, I've immersed myself in the world of coding, exploring various domains such as web development, mobile development, machine learning, web3, and game development. While I discovered a natural talent for web development and created numerous projects, I eventually found myself seeking new challenges. This led me to the fascinating world of cloud-native technologies.
-
-The cloud-native ecosystem, with its vast array of components from monitoring to Kubernetes, containers, and service meshes, captivated me. I realized my passion for open source and the intricate, interesting projects within the Cloud Native Computing Foundation (CNCF).
-
 ## ✨What Makes Me Unique
 
 - 🏆 **Hackathon Winner:** I've won 3 hackathons, showcasing my ability to solve problems creatively and efficiently.
 - 💻 **Open Source Contributor:** I am particularly interested in contributing to open source projects related to WebAssembly, eBPF, and Kubernetes, and I am excited about the innovative potential of these technologies.
-- 🧠 **Curious Learner:** I'm always eager to learn new technologies and understand their lower-level architecture and workings, such as WebAssembly, eBPF, Cilium CNI, and ChaosMesh.
+- 🧠 **Curious Learner:** I'm always eager to learn new technologies and understand their lower-level architecture and workings, such as WebAssembly, eBPF, Version Control & Containerisation.
 - ❓ **Inquisitive Mind:** I know how to ask good questions that drive deeper understanding and innovation.
 - ✅ **Commitment:** I am dedicated to the tasks assigned to me, ensuring I see them through to completion.
 - 🌟 **Perfectionist:** I am obsessed with perfection and strive to resolve all problems thoroughly.
