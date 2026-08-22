@@ -19,8 +19,7 @@ Currently deep in **WASI P3**, Wasm integrations, and pushing Wasm adoption forw
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1404Sal&show_icons=true&theme=default&hide_border=true&count_private=true)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aditya1404Sal&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=graywhite)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com?user=Aditya1404Sal&hide_border=true)
 
 ---
